@@ -1,0 +1,209 @@
+*{
+   
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    /* color: aquamarine; */
+    /* color: white; */
+}
+.container{
+    width: 100%;
+    padding: 0px;
+    position: relative;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 100px;
+}
+.fruit{
+    color: blue;
+    background-color: wheat;
+    padding: 1%;
+}
+
+.img{
+    width: 10%;
+}
+
+
+.list-items{
+    list-style: none;
+    display: inline-block;
+    margin: 0px 20px;
+    text-align: center;
+    
+    
+    display:inline-block;
+
+}
+.links{
+    text-decoration: none;
+    font-weight: 600;
+    color: black;
+  
+    
+}
+.links:hover {
+    text-decoration: underline;
+    color: red;
+
+}
+.cart{
+    width: 5%;
+    padding-right: 2%;
+    cursor: pointer;
+    
+    
+}
+
+div{
+    text-align: center;
+    
+}
+h1{
+    color: red;
+    
+    /* display: inline; */
+    /* padding-left: 5%; */
+     padding-top: 7%;
+     font-weight: bold;
+     
+     
+    
+}
+p{
+    color: green;
+   padding-top: 3%;
+   padding-bottom: 5%;
+}
+.order{
+    background-color: yellow;
+    font-size: 95%;
+    display: inline-block;
+    
+    
+    
+    
+     
+}
+.order:hover{
+    color: white;
+    transition-duration: 300;
+    border-bottom-style:solid;
+    border-radius: 48%;
+    text-size-adjust: 10%;
+}
+.down{
+    padding-left: 3%;
+    padding-bottom: 5%;
+    
+}
+.img{
+    display: inline-block;
+    justify-items:center;
+    justify-content: space-between;
+    padding: 2% 2%;
+    width: 20%;
+}
+.cart-item{
+    color: white;
+    background-color: green;
+    padding: 2%;
+    font-size: 5%;
+     
+} 
+.cart-item:hover{
+color: blue;
+background-color: yellow;
+border-width: 10px;
+transition-duration: 300;
+border-bottom-style:solid;
+border-radius: 40%;
+text-size-adjust: 10%;
+}
+  .app{
+    color: red;
+    padding-bottom: 7%;
+  }
+  .banana{
+    color: red;
+    padding-bottom: 7%;
+  }
+   
+.drag{
+    color: red;
+    padding-bottom: 7%;
+}
+.mango{
+    color: red;
+    padding-bottom: 7%;
+}
+.about{
+    background-color: wheat;
+    padding: 1%;
+    color: blue;
+}
+.about1{
+    color:red;
+    padding: 1%;
+    padding-top: 2%;
+
+}
+
+.paragraph{
+    padding: 1%;
+}
+.fea{
+    color: blue;
+    background-color: wheat;
+    padding: 1%;
+}
+.features{
+    color: red;
+    padding: 1%;
+}
+.features1{
+   color: green;
+  
+}
+
+
+
+.head{
+    font-size: 50px;
+}
+.contact-no{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+    
+.contact{
+    background-color: wheat;
+    padding: 1%;
+    color: blue;
+}
+.trakking{
+
+        background-color: yellow;
+        font-size: 95%;
+        display: inline-block;
+       
+        
+}    
+        
+        
+         
+ .trakking:hover{
+        color: blue;
+        transition-duration: 300;
+        border-bottom-style:solid;
+        border-radius: 48%;
+        text-size-adjust: 10%;
+    }
+
+}
+
+
